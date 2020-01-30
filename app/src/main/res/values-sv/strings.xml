@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Simple Flashlight</string>
+    <string name="app_launcher_name">Ficklampa</string>
+    <string name="camera_error">Det gick inte att komma åt kameran</string>
+    <string name="camera_permission">Kamerabehörigheten behövs för en riktig stroboskopeffekt</string>
+
+    <!-- Settings -->
+    <string name="bright_display">Visa en knapp för ljus skärm</string>
+    <string name="show_stroboscope">Visa en stroboskopknapp</string>
+    <string name="show_sos">Show an SOS button</string>
+    <string name="turn_flashlight_on">Slå på ficklampan vid start</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Flashlight - Do not get lost in the dark</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">En enkel ficklampa utan reklam.</string>
+    <string name="app_long_description">
+        En ren ficklampa med en extra ljus skärm och ett anpassningsbart stroboskop. Om den slås på via appen (inte widgeten), hindrar den enheten från att försättas i viloläge.
+
+        Har en 1x1-widget med anpassningsbar färg.
+
+        Innehåller ingen reklam eller onödiga behörigheter. Den har helt öppen källkod och anpassningsbara färger.
+
+        Denna app är bara en del av en större serie appar. Du hittar resten av dem på https://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
