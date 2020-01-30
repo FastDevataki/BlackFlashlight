@@ -1,0 +1,584 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+MERGED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\ef3004d5c87e68dfd636af9479dc55bf\constraintlayout-2.0.0-beta2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\0588f1680d8c002d349b6281f1a6043e\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\946093075d78eb9f74f58a48d61f96ab\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\5c524d4209c343afc3c83d84af6b9293\jetified-patternlockview-1.0.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\a3dd40076fb1aa4032dab9e86677200c\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ajalt.reprint:core:3.3.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\f5589d49e2dde6fb6bb686c7fbc05628\core-3.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.duolingo.open:rtl-viewpager:1.0.3] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\ca19cf652a8c6616848a091251874082\jetified-rtl-viewpager-1.0.3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\7c77097fa3d8848604e5bb4a1c63be17\glide-4.10.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\df513ca6a5f5e92cbcbb6ae83255d618\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\dc6503a1ebeb5d78f6259a963f885b72\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\4b5b42ad315c37cc8e23ff006c2bb3aa\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\cc49b32293b6ca9e924e3f5ec7f94c93\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\3c86d6f3154e362e2ac7bcaee0a8b231\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\280da15155d0d56d70e7caaff06720f7\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\f3e56877bc6da310e08a648eecbd26a4\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\9d820099421ea00e96b2625ea6c19c4c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\29a6593c42d1f7975c962d8d95b5ed40\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\d87973ebeeaea2fc000b73c69c9f5f39\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\4681ba69b992d1066d0f86ff962fa316\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\1138a1941bf86b99853b89ce79c7fc71\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e7c663d08d0478d87f07969d53991dd8\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\164e16dd8741398891092fcad60e6640\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\fe76cbed9b9df926e6dd828b9c57ebf7\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\2958bfeff871706e37e023803895bb19\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\12e3091321384669e8f586318ef1d685\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\dfb1f22e942c156be6987681931b441d\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\f637e6990403db93e943bb2ba08abc13\gifdecoder-4.10.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\b49a3cb0a0186e54d18812f26e6e4ce2\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\c9eb4efc2103a05ad6203fd4d78919fe\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\a7ac5d9832a55e02f327cca94b1b2adb\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\239abd44858e532d14d05560c5341d1a\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\225c82d8c731985fb415caed199cb7eb\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\6c6d83e3974f455c44439f04a6e130fb\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\09e0734645fd0f7289fcd4a5b87c7ba7\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e4a3d379d1bcbe285b89607fcaeb9e70\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\87ae084eb3df2dbaca54f0e05c8f6900\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+	package
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:5:5-47
+		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:3:5-63
+	android:installLocation
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:6:5-35
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:9:22-66
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:11:5-13:30
+REJECTED from [com.github.ajalt.reprint:core:3.3.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\f5589d49e2dde6fb6bb686c7fbc05628\core-3.3.0\AndroidManifest.xml:9:5-74
+	tools:node
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:13:9-28
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:12:9-58
+uses-feature#android.hardware.camera.flash
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:15:5-17:34
+	android:required
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:16:9-53
+application
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:19:5-343:19
+MERGED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:18:5-27:19
+MERGED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:18:5-27:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\ef3004d5c87e68dfd636af9479dc55bf\constraintlayout-2.0.0-beta2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\ef3004d5c87e68dfd636af9479dc55bf\constraintlayout-2.0.0-beta2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\946093075d78eb9f74f58a48d61f96ab\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\946093075d78eb9f74f58a48d61f96ab\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\7c77097fa3d8848604e5bb4a1c63be17\glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\7c77097fa3d8848604e5bb4a1c63be17\glide-4.10.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\2958bfeff871706e37e023803895bb19\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\2958bfeff871706e37e023803895bb19\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\f637e6990403db93e943bb2ba08abc13\gifdecoder-4.10.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\f637e6990403db93e943bb2ba08abc13\gifdecoder-4.10.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:23:9-50
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:24:9-48
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:26:9-40
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:20:9-28
+activity#com.simplemobiletools.flashlight.activities.SplashActivity
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:theme
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:30:13-47
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:29:13-54
+intent-filter#action:name:android.service.quicksettings.action.QS_TILE_PREFERENCES
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:31:13-33:29
+action#android.service.quicksettings.action.QS_TILE_PREFERENCES
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:32:17-98
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:32:25-96
+activity#com.simplemobiletools.flashlight.activities.MainActivity
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:36:9-38:46
+	android:theme
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:37:13-52
+activity#com.simplemobiletools.flashlight.activities.WidgetConfigureActivity
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:40:9-47:20
+	android:screenOrientation
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:43:13-55
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:41:13-63
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:44:13-46:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:45:17-86
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:45:25-84
+activity#com.simplemobiletools.flashlight.activities.BrightDisplayActivity
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:49:9-69
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:49:19-67
+activity#com.simplemobiletools.flashlight.activities.SettingsActivity
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:51:9-54:68
+	android:parentActivityName
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:54:13-66
+	android:label
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:52:13-56
+activity#com.simplemobiletools.commons.activities.AboutActivity
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:56:9-59:68
+	android:parentActivityName
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:59:13-66
+	android:label
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:58:13-42
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:57:13-82
+activity#com.simplemobiletools.commons.activities.LicenseActivity
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:61:9-64:98
+	android:parentActivityName
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:64:13-96
+	android:label
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:63:13-57
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:62:13-84
+activity#com.simplemobiletools.commons.activities.CustomizationActivity
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:66:9-69:72
+	android:parentActivityName
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:69:13-70
+	android:label
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:68:13-53
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:67:13-90
+activity#com.simplemobiletools.commons.activities.FAQActivity
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:71:9-74:98
+	android:parentActivityName
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:74:13-96
+	android:label
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:73:13-63
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:72:13-80
+receiver#com.simplemobiletools.flashlight.helpers.MyWidgetProvider
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:76:9-86:20
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:78:13-51
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:77:13-53
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:79:13-81:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:80:17-83
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:80:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:83:13-85:54
+	android:resource
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:85:17-52
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:84:17-58
+service#com.simplemobiletools.flashlight.helpers.MyTileService
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:88:9-96:19
+	android:label
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:91:13-54
+	android:permission
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:92:13-77
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:90:13-56
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:89:13-50
+intent-filter#action:name:android.service.quicksettings.action.QS_TILE
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:93:13-95:29
+action#android.service.quicksettings.action.QS_TILE
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:94:17-86
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:94:25-84
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Red
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:98:9-109:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:100:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:103:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:102:13-56
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:101:13-51
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:99:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Pink
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:111:9-122:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:113:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:116:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:115:13-57
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:114:13-52
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:112:13-59
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Purple
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:124:9-135:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:126:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:129:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:128:13-59
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:127:13-54
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:125:13-61
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Deep_purple
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:137:9-148:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:139:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:142:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:141:13-64
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:140:13-59
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:138:13-66
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Indigo
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:150:9-161:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:152:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:155:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:154:13-59
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:153:13-54
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:151:13-61
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Blue
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:163:9-174:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:165:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:168:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:167:13-57
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:166:13-52
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:164:13-59
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Light_blue
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:176:9-187:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:178:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:181:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:180:13-63
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:179:13-58
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:177:13-65
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Cyan
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:189:9-200:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:191:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:194:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:193:13-57
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:192:13-52
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:190:13-59
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Teal
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:202:9-213:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:204:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:207:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:206:13-57
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:205:13-52
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:203:13-59
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Green
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:215:9-226:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:217:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:220:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:219:13-58
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:218:13-53
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:216:13-60
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Light_green
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:228:9-239:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:230:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:233:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:232:13-64
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:231:13-59
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:229:13-66
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Lime
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:241:9-252:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:243:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:246:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:245:13-57
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:244:13-52
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:242:13-59
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Yellow
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:254:9-265:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:256:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:259:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:258:13-59
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:257:13-54
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:255:13-61
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Amber
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:267:9-278:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:269:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:272:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:271:13-58
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:270:13-53
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:268:13-60
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Orange
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:280:9-290:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:282:13-35
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:285:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:284:13-52
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:283:13-47
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:281:13-61
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Deep_orange
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:292:9-303:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:294:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:297:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:296:13-64
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:295:13-59
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:293:13-66
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Brown
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:305:9-316:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:307:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:310:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:309:13-58
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:308:13-53
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:306:13-60
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Blue_grey
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:318:9-329:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:320:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:323:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:322:13-62
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:321:13-57
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:319:13-64
+activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Grey_black
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:331:9-342:26
+	android:enabled
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:333:13-36
+	android:targetActivity
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:336:13-64
+	android:roundIcon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:335:13-63
+	android:icon
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:334:13-58
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:332:13-65
+uses-sdk
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+MERGED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:7:5-9:41
+MERGED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\ef3004d5c87e68dfd636af9479dc55bf\constraintlayout-2.0.0-beta2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\ef3004d5c87e68dfd636af9479dc55bf\constraintlayout-2.0.0-beta2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\0588f1680d8c002d349b6281f1a6043e\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\0588f1680d8c002d349b6281f1a6043e\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\946093075d78eb9f74f58a48d61f96ab\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\946093075d78eb9f74f58a48d61f96ab\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\5c524d4209c343afc3c83d84af6b9293\jetified-patternlockview-1.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\5c524d4209c343afc3c83d84af6b9293\jetified-patternlockview-1.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\a3dd40076fb1aa4032dab9e86677200c\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\a3dd40076fb1aa4032dab9e86677200c\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ajalt.reprint:core:3.3.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\f5589d49e2dde6fb6bb686c7fbc05628\core-3.3.0\AndroidManifest.xml:7:5-44
+MERGED from [com.github.ajalt.reprint:core:3.3.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\f5589d49e2dde6fb6bb686c7fbc05628\core-3.3.0\AndroidManifest.xml:7:5-44
+MERGED from [com.duolingo.open:rtl-viewpager:1.0.3] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\ca19cf652a8c6616848a091251874082\jetified-rtl-viewpager-1.0.3\AndroidManifest.xml:21:5-23:41
+MERGED from [com.duolingo.open:rtl-viewpager:1.0.3] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\ca19cf652a8c6616848a091251874082\jetified-rtl-viewpager-1.0.3\AndroidManifest.xml:21:5-23:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\7c77097fa3d8848604e5bb4a1c63be17\glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\7c77097fa3d8848604e5bb4a1c63be17\glide-4.10.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\df513ca6a5f5e92cbcbb6ae83255d618\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\df513ca6a5f5e92cbcbb6ae83255d618\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\dc6503a1ebeb5d78f6259a963f885b72\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\dc6503a1ebeb5d78f6259a963f885b72\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\4b5b42ad315c37cc8e23ff006c2bb3aa\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\4b5b42ad315c37cc8e23ff006c2bb3aa\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\cc49b32293b6ca9e924e3f5ec7f94c93\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\cc49b32293b6ca9e924e3f5ec7f94c93\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\3c86d6f3154e362e2ac7bcaee0a8b231\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\3c86d6f3154e362e2ac7bcaee0a8b231\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\280da15155d0d56d70e7caaff06720f7\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\280da15155d0d56d70e7caaff06720f7\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\f3e56877bc6da310e08a648eecbd26a4\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\f3e56877bc6da310e08a648eecbd26a4\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\9d820099421ea00e96b2625ea6c19c4c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\9d820099421ea00e96b2625ea6c19c4c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\29a6593c42d1f7975c962d8d95b5ed40\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\29a6593c42d1f7975c962d8d95b5ed40\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\d87973ebeeaea2fc000b73c69c9f5f39\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\d87973ebeeaea2fc000b73c69c9f5f39\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\4681ba69b992d1066d0f86ff962fa316\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\4681ba69b992d1066d0f86ff962fa316\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\1138a1941bf86b99853b89ce79c7fc71\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\1138a1941bf86b99853b89ce79c7fc71\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e7c663d08d0478d87f07969d53991dd8\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e7c663d08d0478d87f07969d53991dd8\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\164e16dd8741398891092fcad60e6640\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\164e16dd8741398891092fcad60e6640\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\fe76cbed9b9df926e6dd828b9c57ebf7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\fe76cbed9b9df926e6dd828b9c57ebf7\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\2958bfeff871706e37e023803895bb19\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\2958bfeff871706e37e023803895bb19\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\12e3091321384669e8f586318ef1d685\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\12e3091321384669e8f586318ef1d685\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\dfb1f22e942c156be6987681931b441d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\dfb1f22e942c156be6987681931b441d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\f637e6990403db93e943bb2ba08abc13\gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\f637e6990403db93e943bb2ba08abc13\gifdecoder-4.10.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\b49a3cb0a0186e54d18812f26e6e4ce2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\b49a3cb0a0186e54d18812f26e6e4ce2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\c9eb4efc2103a05ad6203fd4d78919fe\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\c9eb4efc2103a05ad6203fd4d78919fe\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\a7ac5d9832a55e02f327cca94b1b2adb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\a7ac5d9832a55e02f327cca94b1b2adb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\239abd44858e532d14d05560c5341d1a\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\239abd44858e532d14d05560c5341d1a\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\225c82d8c731985fb415caed199cb7eb\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\225c82d8c731985fb415caed199cb7eb\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\6c6d83e3974f455c44439f04a6e130fb\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\6c6d83e3974f455c44439f04a6e130fb\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\09e0734645fd0f7289fcd4a5b87c7ba7\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\09e0734645fd0f7289fcd4a5b87c7ba7\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e4a3d379d1bcbe285b89607fcaeb9e70\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e4a3d379d1bcbe285b89607fcaeb9e70\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\87ae084eb3df2dbaca54f0e05c8f6900\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\87ae084eb3df2dbaca54f0e05c8f6900\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.faketouch
+ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:12:9-50
+uses-feature#android.hardware.screen.portrait
+ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:15:9-56
+receiver#com.simplemobiletools.commons.receivers.SharedThemeReceiver
+ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:19:9-26:20
+	android:exported
+		ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:20:13-87
+intent-filter#action:name:com.simplemobiletools.commons.SHARED_THEME_ACTIVATED+action:name:com.simplemobiletools.commons.SHARED_THEME_UPDATED
+ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:22:13-25:29
+action#com.simplemobiletools.commons.SHARED_THEME_ACTIVATED
+ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:23:17-95
+	android:name
+		ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:23:25-92
+action#com.simplemobiletools.commons.SHARED_THEME_UPDATED
+ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:24:17-93
+	android:name
+		ADDED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:24:25-90

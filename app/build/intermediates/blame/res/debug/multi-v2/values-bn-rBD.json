@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\romv2_ssd\\Documents\\projects\\team_development\\BlackFlashlight\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn-rBD\\values-bn-rBD.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\romv2_ssd\\.gradle\\caches\\transforms-2\\files-2.1\\f5589d49e2dde6fb6bb686c7fbc05628\\core-3.3.0\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,231,389,543,692,838,962,1099,1235,1399,1542,1654,1751",
+                        "endColumns": "175,157,153,148,145,123,136,135,163,142,111,96,84",
+                        "endOffsets": "226,384,538,687,833,957,1094,1230,1394,1537,1649,1746,1831"
+                    }
+                }
+            ]
+        }
+    ]
+}

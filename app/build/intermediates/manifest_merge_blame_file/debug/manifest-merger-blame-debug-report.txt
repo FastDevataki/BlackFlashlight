@@ -1,0 +1,634 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.simplemobiletools.flashlight.debug"
+4    android:installLocation="auto"
+5    android:versionCode="36"
+6    android:versionName="5.0.4" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:8:5-64
+12-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:8:22-62
+13    <uses-permission android:name="android.permission.FLASHLIGHT" />
+13-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:9:5-68
+13-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:9:22-66
+14
+15    <uses-feature
+15-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:15:5-17:34
+16        android:name="android.hardware.camera.flash"
+16-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:16:9-53
+17        android:required="true" />
+17-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:17:9-32
+18    <uses-feature
+18-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:11:5-13:36
+19        android:name="android.hardware.faketouch"
+19-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:12:9-50
+20        android:required="false" />
+20-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:13:9-33
+21    <uses-feature
+21-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:14:5-16:36
+22        android:name="android.hardware.screen.portrait"
+22-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:15:9-56
+23        android:required="false" />
+23-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:16:9-33
+24
+25    <application
+25-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:19:5-343:19
+26        android:name="com.simplemobiletools.flashlight.App"
+26-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:20:9-28
+27        android:allowBackup="true"
+27-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:21:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\df2ac4fe6b88cbdd1c862077d2fdf1ec\core-1.1.0\AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:22:9-43
+31        android:label="@string/app_launcher_name"
+31-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:23:9-50
+32        android:roundIcon="@mipmap/ic_launcher"
+32-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:24:9-48
+33        android:supportsRtl="true"
+33-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:25:9-35
+34        android:testOnly="true"
+35        android:theme="@style/AppTheme" >
+35-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:26:9-40
+36        <activity
+36-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:28:9-34:20
+37            android:name="com.simplemobiletools.flashlight.activities.SplashActivity"
+37-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:29:13-54
+38            android:theme="@style/SplashTheme" >
+38-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:30:13-47
+39            <intent-filter>
+39-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:31:13-33:29
+40                <action android:name="android.service.quicksettings.action.QS_TILE_PREFERENCES" />
+40-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:32:17-98
+40-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:32:25-96
+41            </intent-filter>
+42        </activity>
+43
+44        <activity-alias
+44-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:331:9-342:26
+45            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Grey_black"
+45-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:332:13-65
+46            android:enabled="false"
+46-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:333:13-36
+47            android:icon="@mipmap/ic_launcher_grey_black"
+47-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:334:13-58
+48            android:roundIcon="@mipmap/ic_launcher_grey_black"
+48-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:335:13-63
+49            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+49-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:336:13-64
+50            <intent-filter>
+50-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+51-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+53-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+54            </intent-filter>
+55        </activity-alias>
+56        <activity-alias
+56-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:318:9-329:26
+57            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Blue_grey"
+57-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:319:13-64
+58            android:enabled="false"
+58-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:320:13-36
+59            android:icon="@mipmap/ic_launcher_blue_grey"
+59-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:321:13-57
+60            android:roundIcon="@mipmap/ic_launcher_blue_grey"
+60-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:322:13-62
+61            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+61-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:323:13-64
+62            <intent-filter>
+62-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+63-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+65-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+66            </intent-filter>
+67        </activity-alias>
+68        <activity-alias
+68-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:305:9-316:26
+69            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Brown"
+69-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:306:13-60
+70            android:enabled="false"
+70-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:307:13-36
+71            android:icon="@mipmap/ic_launcher_brown"
+71-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:308:13-53
+72            android:roundIcon="@mipmap/ic_launcher_brown"
+72-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:309:13-58
+73            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+73-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:310:13-64
+74            <intent-filter>
+74-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+75                <action android:name="android.intent.action.MAIN" />
+75-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+75-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+76
+77                <category android:name="android.intent.category.LAUNCHER" />
+77-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+77-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+78            </intent-filter>
+79        </activity-alias>
+80        <activity-alias
+80-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:292:9-303:26
+81            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Deep_orange"
+81-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:293:13-66
+82            android:enabled="false"
+82-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:294:13-36
+83            android:icon="@mipmap/ic_launcher_deep_orange"
+83-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:295:13-59
+84            android:roundIcon="@mipmap/ic_launcher_deep_orange"
+84-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:296:13-64
+85            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+85-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:297:13-64
+86            <intent-filter>
+86-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+87                <action android:name="android.intent.action.MAIN" />
+87-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+87-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+88
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+89-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+90            </intent-filter>
+91        </activity-alias>
+92        <activity-alias
+92-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:280:9-290:26
+93            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Orange"
+93-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:281:13-61
+94            android:enabled="true"
+94-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:282:13-35
+95            android:icon="@mipmap/ic_launcher"
+95-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:283:13-47
+96            android:roundIcon="@mipmap/ic_launcher"
+96-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:284:13-52
+97            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+97-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:285:13-64
+98            <intent-filter>
+98-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+99                <action android:name="android.intent.action.MAIN" />
+99-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+99-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+100
+101                <category android:name="android.intent.category.LAUNCHER" />
+101-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+101-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+102            </intent-filter>
+103        </activity-alias>
+104        <activity-alias
+104-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:267:9-278:26
+105            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Amber"
+105-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:268:13-60
+106            android:enabled="false"
+106-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:269:13-36
+107            android:icon="@mipmap/ic_launcher_amber"
+107-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:270:13-53
+108            android:roundIcon="@mipmap/ic_launcher_amber"
+108-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:271:13-58
+109            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+109-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:272:13-64
+110            <intent-filter>
+110-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+111                <action android:name="android.intent.action.MAIN" />
+111-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+111-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+112
+113                <category android:name="android.intent.category.LAUNCHER" />
+113-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+113-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+114            </intent-filter>
+115        </activity-alias>
+116        <activity-alias
+116-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:254:9-265:26
+117            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Yellow"
+117-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:255:13-61
+118            android:enabled="false"
+118-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:256:13-36
+119            android:icon="@mipmap/ic_launcher_yellow"
+119-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:257:13-54
+120            android:roundIcon="@mipmap/ic_launcher_yellow"
+120-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:258:13-59
+121            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+121-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:259:13-64
+122            <intent-filter>
+122-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+123                <action android:name="android.intent.action.MAIN" />
+123-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+123-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+124
+125                <category android:name="android.intent.category.LAUNCHER" />
+125-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+125-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+126            </intent-filter>
+127        </activity-alias>
+128        <activity-alias
+128-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:241:9-252:26
+129            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Lime"
+129-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:242:13-59
+130            android:enabled="false"
+130-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:243:13-36
+131            android:icon="@mipmap/ic_launcher_lime"
+131-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:244:13-52
+132            android:roundIcon="@mipmap/ic_launcher_lime"
+132-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:245:13-57
+133            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+133-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:246:13-64
+134            <intent-filter>
+134-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+135                <action android:name="android.intent.action.MAIN" />
+135-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+135-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+136
+137                <category android:name="android.intent.category.LAUNCHER" />
+137-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+137-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+138            </intent-filter>
+139        </activity-alias>
+140        <activity-alias
+140-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:228:9-239:26
+141            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Light_green"
+141-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:229:13-66
+142            android:enabled="false"
+142-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:230:13-36
+143            android:icon="@mipmap/ic_launcher_light_green"
+143-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:231:13-59
+144            android:roundIcon="@mipmap/ic_launcher_light_green"
+144-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:232:13-64
+145            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+145-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:233:13-64
+146            <intent-filter>
+146-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+147                <action android:name="android.intent.action.MAIN" />
+147-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+147-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+148
+149                <category android:name="android.intent.category.LAUNCHER" />
+149-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+149-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+150            </intent-filter>
+151        </activity-alias>
+152        <activity-alias
+152-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:215:9-226:26
+153            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Green"
+153-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:216:13-60
+154            android:enabled="false"
+154-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:217:13-36
+155            android:icon="@mipmap/ic_launcher_green"
+155-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:218:13-53
+156            android:roundIcon="@mipmap/ic_launcher_green"
+156-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:219:13-58
+157            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+157-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:220:13-64
+158            <intent-filter>
+158-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+159                <action android:name="android.intent.action.MAIN" />
+159-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+159-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+160
+161                <category android:name="android.intent.category.LAUNCHER" />
+161-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+161-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+162            </intent-filter>
+163        </activity-alias>
+164        <activity-alias
+164-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:202:9-213:26
+165            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Teal"
+165-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:203:13-59
+166            android:enabled="false"
+166-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:204:13-36
+167            android:icon="@mipmap/ic_launcher_teal"
+167-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:205:13-52
+168            android:roundIcon="@mipmap/ic_launcher_teal"
+168-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:206:13-57
+169            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+169-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:207:13-64
+170            <intent-filter>
+170-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+171                <action android:name="android.intent.action.MAIN" />
+171-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+171-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+172
+173                <category android:name="android.intent.category.LAUNCHER" />
+173-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+173-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+174            </intent-filter>
+175        </activity-alias>
+176        <activity-alias
+176-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:189:9-200:26
+177            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Cyan"
+177-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:190:13-59
+178            android:enabled="false"
+178-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:191:13-36
+179            android:icon="@mipmap/ic_launcher_cyan"
+179-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:192:13-52
+180            android:roundIcon="@mipmap/ic_launcher_cyan"
+180-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:193:13-57
+181            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+181-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:194:13-64
+182            <intent-filter>
+182-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+183                <action android:name="android.intent.action.MAIN" />
+183-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+183-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+184
+185                <category android:name="android.intent.category.LAUNCHER" />
+185-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+185-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+186            </intent-filter>
+187        </activity-alias>
+188        <activity-alias
+188-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:176:9-187:26
+189            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Light_blue"
+189-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:177:13-65
+190            android:enabled="false"
+190-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:178:13-36
+191            android:icon="@mipmap/ic_launcher_light_blue"
+191-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:179:13-58
+192            android:roundIcon="@mipmap/ic_launcher_light_blue"
+192-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:180:13-63
+193            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+193-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:181:13-64
+194            <intent-filter>
+194-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+195                <action android:name="android.intent.action.MAIN" />
+195-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+195-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+196
+197                <category android:name="android.intent.category.LAUNCHER" />
+197-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+197-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+198            </intent-filter>
+199        </activity-alias>
+200        <activity-alias
+200-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:163:9-174:26
+201            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Blue"
+201-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:164:13-59
+202            android:enabled="false"
+202-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:165:13-36
+203            android:icon="@mipmap/ic_launcher_blue"
+203-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:166:13-52
+204            android:roundIcon="@mipmap/ic_launcher_blue"
+204-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:167:13-57
+205            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+205-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:168:13-64
+206            <intent-filter>
+206-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+207                <action android:name="android.intent.action.MAIN" />
+207-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+207-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+208
+209                <category android:name="android.intent.category.LAUNCHER" />
+209-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+209-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+210            </intent-filter>
+211        </activity-alias>
+212        <activity-alias
+212-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:150:9-161:26
+213            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Indigo"
+213-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:151:13-61
+214            android:enabled="false"
+214-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:152:13-36
+215            android:icon="@mipmap/ic_launcher_indigo"
+215-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:153:13-54
+216            android:roundIcon="@mipmap/ic_launcher_indigo"
+216-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:154:13-59
+217            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+217-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:155:13-64
+218            <intent-filter>
+218-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+219                <action android:name="android.intent.action.MAIN" />
+219-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+219-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+220
+221                <category android:name="android.intent.category.LAUNCHER" />
+221-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+221-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+222            </intent-filter>
+223        </activity-alias>
+224        <activity-alias
+224-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:137:9-148:26
+225            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Deep_purple"
+225-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:138:13-66
+226            android:enabled="false"
+226-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:139:13-36
+227            android:icon="@mipmap/ic_launcher_deep_purple"
+227-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:140:13-59
+228            android:roundIcon="@mipmap/ic_launcher_deep_purple"
+228-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:141:13-64
+229            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+229-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:142:13-64
+230            <intent-filter>
+230-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+231                <action android:name="android.intent.action.MAIN" />
+231-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+231-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+232
+233                <category android:name="android.intent.category.LAUNCHER" />
+233-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+233-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+234            </intent-filter>
+235        </activity-alias>
+236        <activity-alias
+236-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:124:9-135:26
+237            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Purple"
+237-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:125:13-61
+238            android:enabled="false"
+238-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:126:13-36
+239            android:icon="@mipmap/ic_launcher_purple"
+239-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:127:13-54
+240            android:roundIcon="@mipmap/ic_launcher_purple"
+240-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:128:13-59
+241            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+241-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:129:13-64
+242            <intent-filter>
+242-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+243                <action android:name="android.intent.action.MAIN" />
+243-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+243-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+244
+245                <category android:name="android.intent.category.LAUNCHER" />
+245-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+245-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+246            </intent-filter>
+247        </activity-alias>
+248        <activity-alias
+248-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:111:9-122:26
+249            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Pink"
+249-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:112:13-59
+250            android:enabled="false"
+250-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:113:13-36
+251            android:icon="@mipmap/ic_launcher_pink"
+251-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:114:13-52
+252            android:roundIcon="@mipmap/ic_launcher_pink"
+252-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:115:13-57
+253            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+253-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:116:13-64
+254            <intent-filter>
+254-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+255                <action android:name="android.intent.action.MAIN" />
+255-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+255-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+256
+257                <category android:name="android.intent.category.LAUNCHER" />
+257-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+257-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+258            </intent-filter>
+259        </activity-alias>
+260        <activity-alias
+260-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:98:9-109:26
+261            android:name="com.simplemobiletools.flashlight.activities.SplashActivity.Red"
+261-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:99:13-58
+262            android:enabled="false"
+262-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:100:13-36
+263            android:icon="@mipmap/ic_launcher_red"
+263-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:101:13-51
+264            android:roundIcon="@mipmap/ic_launcher_red"
+264-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:102:13-56
+265            android:targetActivity="com.simplemobiletools.flashlight.activities.SplashActivity" >
+265-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:103:13-64
+266            <intent-filter>
+266-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
+267                <action android:name="android.intent.action.MAIN" />
+267-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
+267-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
+268
+269                <category android:name="android.intent.category.LAUNCHER" />
+269-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
+269-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
+270            </intent-filter>
+271        </activity-alias>
+272
+273        <activity
+273-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:36:9-38:46
+274            android:name="com.simplemobiletools.flashlight.activities.MainActivity"
+274-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:37:13-52
+275            android:theme="@style/AppTheme" />
+275-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:38:13-44
+276        <activity
+276-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:40:9-47:20
+277            android:name="com.simplemobiletools.flashlight.activities.WidgetConfigureActivity"
+277-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:41:13-63
+278            android:screenOrientation="portrait"
+278-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:42:13-49
+279            android:theme="@style/MyWidgetConfigTheme" >
+279-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:43:13-55
+280            <intent-filter>
+280-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:44:13-46:29
+281                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
+281-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:45:17-86
+281-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:45:25-84
+282            </intent-filter>
+283        </activity>
+284        <activity android:name="com.simplemobiletools.flashlight.activities.BrightDisplayActivity" />
+284-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:49:9-69
+284-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:49:19-67
+285        <activity
+285-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:51:9-54:68
+286            android:name="com.simplemobiletools.flashlight.activities.SettingsActivity"
+286-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:52:13-56
+287            android:label="@string/settings"
+287-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:53:13-45
+288            android:parentActivityName="com.simplemobiletools.flashlight.activities.MainActivity" />
+288-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:54:13-66
+289        <activity
+289-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:56:9-59:68
+290            android:name="com.simplemobiletools.commons.activities.AboutActivity"
+290-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:57:13-82
+291            android:label="@string/about"
+291-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:58:13-42
+292            android:parentActivityName="com.simplemobiletools.flashlight.activities.MainActivity" />
+292-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:59:13-66
+293        <activity
+293-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:61:9-64:98
+294            android:name="com.simplemobiletools.commons.activities.LicenseActivity"
+294-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:62:13-84
+295            android:label="@string/third_party_licences"
+295-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:63:13-57
+296            android:parentActivityName="com.simplemobiletools.commons.activities.AboutActivity" />
+296-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:64:13-96
+297        <activity
+297-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:66:9-69:72
+298            android:name="com.simplemobiletools.commons.activities.CustomizationActivity"
+298-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:67:13-90
+299            android:label="@string/customize_colors"
+299-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:68:13-53
+300            android:parentActivityName="com.simplemobiletools.flashlight.activities.SettingsActivity" />
+300-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:69:13-70
+301        <activity
+301-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:71:9-74:98
+302            android:name="com.simplemobiletools.commons.activities.FAQActivity"
+302-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:72:13-80
+303            android:label="@string/frequently_asked_questions"
+303-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:73:13-63
+304            android:parentActivityName="com.simplemobiletools.commons.activities.AboutActivity" />
+304-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:74:13-96
+305
+306        <receiver
+306-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:76:9-86:20
+307            android:name="com.simplemobiletools.flashlight.helpers.MyWidgetProvider"
+307-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:77:13-53
+308            android:icon="@drawable/circles_small" >
+308-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:78:13-51
+309            <intent-filter>
+309-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:79:13-81:29
+310                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+310-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:80:17-83
+310-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:80:25-81
+311            </intent-filter>
+312
+313            <meta-data
+313-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:83:13-85:54
+314                android:name="android.appwidget.provider"
+314-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:84:17-58
+315                android:resource="@xml/widget_info" />
+315-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:85:17-52
+316        </receiver>
+317
+318        <service
+318-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:88:9-96:19
+319            android:name="com.simplemobiletools.flashlight.helpers.MyTileService"
+319-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:89:13-50
+320            android:icon="@drawable/img_widget_preview"
+320-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:90:13-56
+321            android:label="@string/app_launcher_name"
+321-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:91:13-54
+322            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+322-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:92:13-77
+323            <intent-filter>
+323-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:93:13-95:29
+324                <action android:name="android.service.quicksettings.action.QS_TILE" />
+324-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:94:17-86
+324-->C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:94:25-84
+325            </intent-filter>
+326        </service>
+327
+328        <receiver
+328-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:19:9-26:20
+329            android:name="com.simplemobiletools.commons.receivers.SharedThemeReceiver"
+329-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:20:13-87
+330            android:exported="true" >
+330-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:21:13-36
+331            <intent-filter>
+331-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:22:13-25:29
+332                <action android:name="com.simplemobiletools.commons.SHARED_THEME_ACTIVATED" />
+332-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:23:17-95
+332-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:23:25-92
+333                <action android:name="com.simplemobiletools.commons.SHARED_THEME_UPDATED" />
+333-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:24:17-93
+333-->[com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:24:25-90
+334            </intent-filter>
+335        </receiver>
+336    </application>
+337
+338</manifest>
