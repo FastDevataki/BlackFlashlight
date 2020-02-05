@@ -9,7 +9,7 @@
             android:shape="oval">
             <stroke
                 android:width="13dp"
-                android:color="#ff0000"/>
+                android:color="@android:color/white"/>
             <solid android:color="@android:color/transparent"/>
         </shape>
     </item>

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
-INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
-INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
-INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-109:12
 MERGED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:2:1-29:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\ef3004d5c87e68dfd636af9479dc55bf\constraintlayout-2.0.0-beta2\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\0588f1680d8c002d349b6281f1a6043e\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
@@ -42,22 +42,22 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\romv2_ssd\.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\09e0734645fd0f7289fcd4a5b87c7ba7\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e4a3d379d1bcbe285b89607fcaeb9e70\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\87ae084eb3df2dbaca54f0e05c8f6900\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
-INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
-INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-109:12
+INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-109:12
 	package
 		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:5:5-47
 		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-109:12
 		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:4:5-51
 	android:versionCode
 		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-344:12
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:2:1-109:12
 		INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:3:5-63
@@ -85,7 +85,7 @@ ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashligh
 	android:name
 		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:16:9-53
 application
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:19:5-343:19
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:19:5-108:19
 MERGED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:18:5-27:19
 MERGED from [com.simplemobiletools:commons:5.21.13] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\e6a247b47340a52d4011c2a5a33e1a52\jetified-commons-5.21.13\AndroidManifest.xml:18:5-27:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] C:\Users\romv2_ssd\.gradle\caches\transforms-2\files-2.1\ef3004d5c87e68dfd636af9479dc55bf\constraintlayout-2.0.0-beta2\AndroidManifest.xml:9:5-20
@@ -134,336 +134,82 @@ ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashligh
 		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:38:13-44
 	android:name
 		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:37:13-52
-activity#com.simplemobiletools.flashlight.activities.WidgetConfigureActivity
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:40:9-47:20
-	android:screenOrientation
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:42:13-49
-	android:theme
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:43:13-55
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:41:13-63
-intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:44:13-46:29
-action#android.appwidget.action.APPWIDGET_CONFIGURE
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:45:17-86
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:45:25-84
 activity#com.simplemobiletools.flashlight.activities.BrightDisplayActivity
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:49:9-69
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:40:9-69
 	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:49:19-67
-activity#com.simplemobiletools.flashlight.activities.SettingsActivity
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:51:9-54:68
-	android:parentActivityName
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:54:13-66
-	android:label
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:53:13-45
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:52:13-56
-activity#com.simplemobiletools.commons.activities.AboutActivity
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:56:9-59:68
-	android:parentActivityName
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:59:13-66
-	android:label
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:58:13-42
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:57:13-82
-activity#com.simplemobiletools.commons.activities.LicenseActivity
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:61:9-64:98
-	android:parentActivityName
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:64:13-96
-	android:label
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:63:13-57
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:62:13-84
-activity#com.simplemobiletools.commons.activities.CustomizationActivity
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:66:9-69:72
-	android:parentActivityName
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:69:13-70
-	android:label
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:68:13-53
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:67:13-90
-activity#com.simplemobiletools.commons.activities.FAQActivity
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:71:9-74:98
-	android:parentActivityName
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:74:13-96
-	android:label
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:73:13-63
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:72:13-80
-receiver#com.simplemobiletools.flashlight.helpers.MyWidgetProvider
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:76:9-86:20
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:78:13-51
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:77:13-53
-intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:79:13-81:29
-action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:80:17-83
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:80:25-81
-meta-data#android.appwidget.provider
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:83:13-85:54
-	android:resource
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:85:17-52
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:84:17-58
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:40:19-67
 service#com.simplemobiletools.flashlight.helpers.MyTileService
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:88:9-96:19
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:42:9-49:19
 	android:label
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:91:13-54
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:44:13-54
 	android:permission
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:92:13-77
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:90:13-56
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:45:13-77
 	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:89:13-50
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:43:13-50
 intent-filter#action:name:android.service.quicksettings.action.QS_TILE
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:93:13-95:29
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:46:13-48:29
 action#android.service.quicksettings.action.QS_TILE
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:94:17-86
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:47:17-86
 	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:94:25-84
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Red
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:98:9-109:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:100:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:103:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:102:13-56
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:101:13-51
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:99:13-58
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:105:13-108:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:17-68
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:106:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:17-76
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:107:27-74
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Pink
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:111:9-122:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:113:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:116:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:115:13-57
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:114:13-52
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:112:13-59
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Purple
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:124:9-135:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:126:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:129:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:128:13-59
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:127:13-54
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:125:13-61
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Deep_purple
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:137:9-148:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:139:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:142:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:141:13-64
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:140:13-59
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:138:13-66
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Indigo
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:150:9-161:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:152:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:155:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:154:13-59
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:153:13-54
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:151:13-61
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Blue
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:163:9-174:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:165:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:168:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:167:13-57
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:166:13-52
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:164:13-59
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Light_blue
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:176:9-187:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:178:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:181:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:180:13-63
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:179:13-58
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:177:13-65
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Cyan
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:189:9-200:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:191:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:194:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:193:13-57
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:192:13-52
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:190:13-59
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Teal
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:202:9-213:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:204:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:207:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:206:13-57
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:205:13-52
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:203:13-59
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Green
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:215:9-226:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:217:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:220:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:219:13-58
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:218:13-53
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:216:13-60
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Light_green
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:228:9-239:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:230:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:233:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:232:13-64
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:231:13-59
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:229:13-66
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Lime
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:241:9-252:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:243:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:246:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:245:13-57
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:244:13-52
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:242:13-59
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Yellow
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:254:9-265:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:256:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:259:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:258:13-59
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:257:13-54
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:255:13-61
-activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Amber
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:267:9-278:26
-	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:269:13-36
-	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:272:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:271:13-58
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:270:13-53
-	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:268:13-60
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:47:25-84
 activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Orange
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:280:9-290:26
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:51:9-61:26
 	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:282:13-35
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:53:13-35
 	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:285:13-64
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:56:13-64
 	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:284:13-52
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:55:13-52
 	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:283:13-47
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:54:13-47
 	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:281:13-61
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:52:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:57:13-60:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:58:17-68
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:59:17-76
+	android:name
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:59:27-74
 activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Deep_orange
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:292:9-303:26
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:63:9-72:26
 	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:294:13-36
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:65:13-36
 	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:297:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:296:13-64
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:295:13-59
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:66:13-64
 	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:293:13-66
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:64:13-66
 activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Brown
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:305:9-316:26
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:74:9-83:26
 	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:307:13-36
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:76:13-36
 	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:310:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:309:13-58
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:308:13-53
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:77:13-64
 	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:306:13-60
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:75:13-60
 activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Blue_grey
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:318:9-329:26
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:85:9-94:26
 	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:320:13-36
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:87:13-36
 	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:323:13-64
-	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:322:13-62
-	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:321:13-57
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:88:13-64
 	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:319:13-64
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:86:13-64
 activity-alias#com.simplemobiletools.flashlight.activities.SplashActivity.Grey_black
-ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:331:9-342:26
+ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:96:9-107:26
 	android:enabled
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:333:13-36
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:98:13-36
 	android:targetActivity
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:336:13-64
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:101:13-64
 	android:roundIcon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:335:13-63
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:100:13-63
 	android:icon
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:334:13-58
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:99:13-58
 	android:name
-		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:332:13-65
+		ADDED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml:97:13-65
 uses-sdk
 INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\romv2_ssd\Documents\projects\team_development\BlackFlashlight\app\src\main\AndroidManifest.xml
